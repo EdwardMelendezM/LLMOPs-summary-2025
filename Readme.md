@@ -34,7 +34,7 @@ Broader design of the entire end to end application (front-end, back-end, data e
 - Track history
 
 ## High level example of a LLM driven application
-![Image1](/img/example-of-llm-driven-application.png)
+![Image1](/src/assets/img/example-of-llm-driven-application.png)
 
 # LLMOps Pipeline
 
@@ -51,7 +51,7 @@ Where:
 - Automation are 4 and 5 steps
 - This is a simplified diagram
 
-![Image2](/img/simplified-diagram.png)
+![Image2](/src/assets/img/simplified-diagram.png)
 
 # Data Preparation
 
@@ -301,7 +301,7 @@ job.state
 ```
 
 - We can see how it works
-![image3](/img/job-worked.png)
+![image3](/src/assets/img/job-worked.png)
 
 You can see a real example in the course
 
