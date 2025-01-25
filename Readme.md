@@ -301,7 +301,7 @@ job.state
 ```
 
 - We can see how it works  
-![image3](/src/assets/img/job-worked.png)
+- ![image3](/src/assets/img/job-worked.png)
 
 You can see a real example in the course
 
